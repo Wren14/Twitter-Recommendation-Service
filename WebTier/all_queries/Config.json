@@ -1,0 +1,6 @@
+{
+  "NUM_CORES": 1,
+  "MYSQL_HOST": "final-db.cluster-cvlrg0coq4r0.us-east-1.rds.amazonaws.com",
+  "MYSQL_USER": "root",
+  "MYSQL_PWD" : "mysql123"
+}

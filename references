@@ -1,0 +1,48 @@
+{
+  "referenceGuide":"Cite all the reference sources in the required format. Proper citations will help you avoid unnecessary trouble but does not make it acceptable to copy code. Read the course and university policy statements in this regard. When working with others, limit the discussion to block diagrams and arrows. Do not look at another students' code. Read the JSON semantics and make use of JSON validator from the Internet if needed.",
+  "websites":[
+    {
+      "title":"Convert a date format in epoch",
+      "url":"https://stackoverflow.com/questions/6687433/convert-a-date-format-in-epoch",
+      "code":"I used the idea in the valid-tweets-etl job, to convert the date in string format to a timestamp epoch",
+      "description":"<additional information you may find necessary to provide>"
+    }
+    {
+      "title":"Java Timestamp - Adding five minutes",
+      "url":"https://stackoverflow.com/questions/15429931/java-timestamp-adding-five-minutes",
+      "code":"I used this code in query1 to generate reward transaction for the block we mine",
+      "description":"<additional information you may find necessary to provide>"
+    }
+    {
+      "title":"Package java.util.zip",
+      "url":"https://docs.oracle.com/javase/8/docs/api/index.html?java/util/zip/package-summary.html",
+      "code":"I used this code in query1 decode the request for query1",
+      "description":"<additional information you may find necessary to provide>"
+    }
+    {
+      "title":"Class BigInteger",
+      "url":"https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html",
+      "code":"I used this code in query1 to mine a block",
+      "description":"<additional information you may find necessary to provide>"
+    }
+    {
+      "title":"Class Base64",
+      "url":"https://docs.oracle.com/javase/8/docs/api/java/util/Base64.html",
+      "code":"I used this code in query1 to decode the input request",
+      "description":"<additional information you may find necessary to provide>"
+    }
+    {
+      "title":"Chapter 13 SQL Statement Syntax",
+      "url":"https://dev.mysql.com/doc/refman/8.0/en/sql-syntax.html",
+      "code":"We referred this for writing SQL queries in query2",
+      "description":"<additional information you may find necessary to provide>"
+    }
+  ],
+  "collaborators":[
+    {
+      "andrewId":"<collaborator andrewId>",
+      "collaborationType":"<I helped X, X helped me, or we helped each other>",
+      "description":"<describe the idea discussed or shared>"
+    }
+  ]
+}
