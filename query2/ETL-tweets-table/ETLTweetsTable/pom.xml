@@ -9,7 +9,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <hadoop.version>2.2.0</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <junit.jupiter.version>5.2.0</junit.jupiter.version>
     </properties>
     <dependencies>
